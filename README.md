@@ -1,4 +1,4 @@
-# DesafiosEmCpp
+# Desafios Em C++ - 2014
 Alguns códigos de auto desafio feitos em C++
 
 Nos exemplos acima, eu buscava na internet alguns desafios de lógica de programação para tentar executar,
